@@ -1,0 +1,9 @@
+.eachCountry{
+    border: 2px solid rebeccapurple;
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 20px;
+    width: 300px;
+    margin-left: 500px;
+}
